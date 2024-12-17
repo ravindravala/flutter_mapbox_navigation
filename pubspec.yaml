@@ -26,9 +26,6 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        package: com.eopeter.fluttermapboxnavigation
-        pluginClass: FlutterMapboxNavigationPlugin
       ios:
         pluginClass: FlutterMapboxNavigationPlugin
  #      linux:
